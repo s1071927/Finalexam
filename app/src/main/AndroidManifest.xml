@@ -5,7 +5,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/traffic_light"
-        android:label="@string/紅綠燈劉芝君"
+        android:label="@string/app_name"
         android:roundIcon="@drawable/traffic_light"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
